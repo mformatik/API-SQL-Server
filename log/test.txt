@@ -1,0 +1,9 @@
+
+---------------------------------------------------------------------------------
+Route  : /getQuery
+ip : 192.168.2.219
+database : hisba_mformatik_local
+query : selects
+Time  : Mon Sep 27 2021 17:02:12 GMT+0100 (GMT+01:00)
+Exception : RequestError: Could not find stored procedure 'selects'.
+---------------------------------------------------------------------------------

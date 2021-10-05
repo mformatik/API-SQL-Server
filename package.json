@@ -1,0 +1,19 @@
+{
+  "name": "sql_server_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "fs": "0.0.1-security",
+    "mssql": "^7.1.3"
+  }
+}
